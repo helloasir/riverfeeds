@@ -1,0 +1,25 @@
+{
+  "name": "riverfeeds",
+  "version": "1.0.0",
+  "description": "River5 is a ",
+  "main": "river5.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "request": "*",
+    "mime": "*",
+    "md5": "*",
+    "nodejs-websocket": "*",
+    "opmlparser": "*",
+    "feedparser": "*",
+    "daveutils": "*",
+    "davereader": "*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "0.10.*"
+  }
+}

@@ -1,0 +1,113 @@
+{
+    "prefs": {
+        "enabled": true,
+        "url": "https://www.aclu.org/taxonomy/feed-term/936/feed",
+        "ctSecsBetwRenews": 86400,
+        "flNonListSubscribe": false
+    },
+    "data": {
+        "feedhash": ""
+    },
+    "stats": {
+        "ctReads": 3,
+        "ctReadErrors": 0,
+        "ctConsecutiveReadErrors": 0,
+        "ctItems": 10,
+        "ctEnclosures": 0,
+        "ctFeedTextChanges": 0,
+        "ct304s": 0,
+        "ctItemsTooOld": 0,
+        "ctReadsSkipped": 0,
+        "ctInfoReads": 2,
+        "ctInfoWrites": 3,
+        "whenSubscribed": "2022-08-06T15:45:36.794Z",
+        "whenLastRead": "2022-08-06T18:29:26.323Z",
+        "whenLastNewItem": "2022-08-06T15:45:36.673Z",
+        "mostRecentPubDate": "2022-08-05T15:22:04.000Z",
+        "whenLastInfoWrite": "2022-08-06T18:29:26.885Z",
+        "whenLastReadError": "1970-01-01T00:00:00.000Z",
+        "whenLastInfoRead": "2022-08-06T18:29:26.639Z",
+        "lastReadError": "",
+        "itemSerialnum": 0,
+        "ctSecsLastRead": 0.562
+    },
+    "feedInfo": {
+        "title": "American Civil Liberties Union",
+        "link": "https://www.aclu.org/",
+        "description": "ACLU.org"
+    },
+    "history": [
+        {
+            "title": "Fifty-Seven Years After its Enactment, the Voting Rights Act is in Peril",
+            "link": "https://www.aclu.org/news/voting-rights/fifty-seven-years-after-its-enactment-the-voting-rights-act-is-in-peril",
+            "description": "This week marks 57 years since the signing of the Voting Rights Act (VRA), landmark legislation that ensured the right to vote was protected for all Americans.\nIn the decades following the Civil War, states in the South enacted discriminatory measures, such as poll taxes and ...",
+            "guid": "https://www.aclu.org/news/voting-rights/fifty-seven-years-after-its-enactment-the-voting-rights-act-is-in-peril",
+            "when": "2022-08-06T15:45:36.673Z"
+        },
+        {
+            "title": "Despite SCOTUS Ruling, the Biden Administration Can Prevent a Reversion to Trump's Deportation Machine",
+            "link": "https://www.aclu.org/news/immigrants-rights/despite-scotus-ruling-the-biden-administration-can-prevent-a-reversion-to-trumps-deportation-machine",
+            "description": "The Biden administration asked the Supreme Court last month to allow it to proceed with guidelines limiting who can be arrested and deported. The guidelines, outlined in a memo by Homeland Security Secretary Alejandro Mayorkas, faced xenophobic and politically charged legal ...",
+            "guid": "https://www.aclu.org/news/immigrants-rights/despite-scotus-ruling-the-biden-administration-can-prevent-a-reversion-to-trumps-deportation-machine",
+            "when": "2022-08-06T15:45:36.673Z"
+        },
+        {
+            "title": "In Missouri and Illinois, a Glimpse of Abortion Access in a Post-Roe World",
+            "link": "https://www.aclu.org/news/reproductive-freedom/in-missouri-and-illinois-a-glimpse-of-abortion-access-in-a-post-roe-world",
+            "description": "The movement for abortion rights can feel hopeless in the wake of the Supreme Court’s decision to overturn Roe, and indeed, this is a moment of unprecedented adversity. But across the country, advocates are hard at work trying to win back fundamental reproductive freedoms and ...",
+            "guid": "https://www.aclu.org/news/reproductive-freedom/in-missouri-and-illinois-a-glimpse-of-abortion-access-in-a-post-roe-world",
+            "when": "2022-08-06T15:45:36.673Z"
+        },
+        {
+            "title": "We Need the PUMP Act to Protect Nursing Workers Like Me",
+            "link": "https://www.aclu.org/news/womens-rights/we-need-the-pump-act-to-protect-nursing-workers-like-me",
+            "description": "As a woman working on Amtrak, first as a conductor and later as an engineer, my job posed challenges in many areas. At times it wasn’t easy being the only woman on board. But, like most of the female employees that came before me and worked alongside me, we made it work the best ...",
+            "guid": "https://www.aclu.org/news/womens-rights/we-need-the-pump-act-to-protect-nursing-workers-like-me",
+            "when": "2022-08-06T15:45:36.673Z"
+        },
+        {
+            "title": "Police Are Using Newborn Genetic Screening to Search for Suspects, Threatening Privacy and Public Health",
+            "link": "https://www.aclu.org/news/privacy-technology/police-are-using-newborn-genetic-screening",
+            "description": "Nearly every baby born in the U.S. has blood drawn in the immediate hours after their birth, allowing the baby to be tested for a panel of potentially life-threatening inherited disorders. This is a vital public health program, enabling early treatment of newborns with genetic ...",
+            "guid": "https://www.aclu.org/news/privacy-technology/police-are-using-newborn-genetic-screening",
+            "when": "2022-08-06T15:45:36.673Z"
+        },
+        {
+            "title": "Here’s What You Need to Know About the House Passage of the Respect for Marriage Act",
+            "link": "https://www.aclu.org/news/lgbtq-rights/what-you-need-to-know-about-the-respect-for-marriage-act",
+            "description": "This week, the U.S. House of Representatives passed the Respect for Marriage Act. Here’s why that’s a big deal and why — contrary to much of the reporting on it — the measure is actually fairly limited.\n\t\n\t\t\t\t\t\n\t\t\n\t\t\t\t\tWhy did the House of Representatives pass the Respect for ...",
+            "guid": "https://www.aclu.org/news/lgbtq-rights/what-you-need-to-know-about-the-respect-for-marriage-act",
+            "when": "2022-08-06T15:45:36.673Z"
+        },
+        {
+            "title": "New Records Detail DHS Purchase and Use of Vast Quantities of Cell Phone Location Data",
+            "link": "https://www.aclu.org/news/privacy-technology/new-records-detail-dhs-purchase-and-use-of-vast-quantities-of-cell-phone-location-data",
+            "description": "Today, the ACLU published thousands of pages of previously unreleased records about how Customs and Border Protection, Immigration and Customs Enforcement, and other parts of the Department of Homeland Security are sidestepping our Fourth Amendment right against unreasonable ...",
+            "guid": "https://www.aclu.org/news/privacy-technology/new-records-detail-dhs-purchase-and-use-of-vast-quantities-of-cell-phone-location-data",
+            "when": "2022-08-06T15:45:36.673Z"
+        },
+        {
+            "title": "Six Questions to Ask Before Accepting a Surveillance Technology",
+            "link": "https://www.aclu.org/news/privacy-technology/six-questions-to-ask-before-accepting-a-surveillance-technology",
+            "description": "If police in your community are saying they want to install a new surveillance technology — face recognition, cameras, or license plate scanners, for example — they’re likely to be touted as the way to prevent all manners of evil, from terrorism to street crime to fraud to ...",
+            "guid": "https://www.aclu.org/news/privacy-technology/six-questions-to-ask-before-accepting-a-surveillance-technology",
+            "when": "2022-08-06T15:45:36.673Z"
+        },
+        {
+            "title": "Home Care Workers Protect the Civil Liberties of People with Disabilities. They Need Protection, Too",
+            "link": "https://www.aclu.org/news/civil-liberties/home-care-workers-protect-the-civil-liberties-of-people-with-disabilities-they-need-protection-too",
+            "description": "At the onset of the pandemic, as most of the country shuttered themselves inside to avoid COVID-19 infection, home health aides remained on the front lines, taking care of our loved ones and risking their lives in the process. These caregivers — the majority of whom are Black ...",
+            "guid": "https://www.aclu.org/news/civil-liberties/home-care-workers-protect-the-civil-liberties-of-people-with-disabilities-they-need-protection-too",
+            "when": "2022-08-06T15:45:36.673Z"
+        },
+        {
+            "title": "Victims of Discrimination Have No Path to Justice Following Supreme Court Decision",
+            "link": "https://www.aclu.org/news/disability-rights/victims-of-discrimination-have-no-path-to-justice-following-supreme-court-decision",
+            "description": "When Rosa Parks refused to give up her seat on a bus in Montgomery, Alabama in 1955, our laws did not provide any recourse against the discrimination she faced. In the decades that followed, organizers and civil rights groups won key battles to expand our laws to protect against ...",
+            "guid": "https://www.aclu.org/news/disability-rights/victims-of-discrimination-have-no-path-to-justice-following-supreme-court-decision",
+            "when": "2022-08-06T15:45:36.673Z"
+        }
+    ],
+    "lists": [],
+    "calendar": {}
+}

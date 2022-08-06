@@ -1,0 +1,400 @@
+{
+    "prefs": {
+        "enabled": true,
+        "url": "http://hn.geekity.com/newstories.xml",
+        "ctSecsBetwRenews": 86400,
+        "flNonListSubscribe": false
+    },
+    "data": {
+        "feedhash": ""
+    },
+    "stats": {
+        "ctReads": 3,
+        "ctReadErrors": 0,
+        "ctConsecutiveReadErrors": 0,
+        "ctItems": 108,
+        "ctEnclosures": 0,
+        "ctFeedTextChanges": 0,
+        "ct304s": 0,
+        "ctItemsTooOld": 0,
+        "ctReadsSkipped": 0,
+        "ctInfoReads": 2,
+        "ctInfoWrites": 3,
+        "whenSubscribed": "2022-08-06T15:45:34.427Z",
+        "whenLastRead": "2022-08-06T18:29:24.228Z",
+        "whenLastNewItem": "2022-08-06T18:29:24.228Z",
+        "mostRecentPubDate": "2022-08-06T18:28:04.000Z",
+        "whenLastInfoWrite": "2022-08-06T18:29:26.027Z",
+        "whenLastReadError": "1970-01-01T00:00:00.000Z",
+        "whenLastInfoRead": "2022-08-06T18:29:24.254Z",
+        "lastReadError": "",
+        "itemSerialnum": 0,
+        "ctSecsLastRead": 1.795
+    },
+    "feedInfo": {
+        "title": "Hacker News Firehose",
+        "link": "https://news.ycombinator.com/newest",
+        "description": "All links posted to Hacker News.",
+        "cloud": {
+            "domain": "rpc.rsscloud.io",
+            "port": "5337",
+            "path": "/pleaseNotify",
+            "registerProcedure": "",
+            "protocol": "http-post"
+        }
+    },
+    "history": [
+        {
+            "title": "Kalix and DDD",
+            "link": "https://www.kalix.io/blog/kalix-and-ddd",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370423",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Flower Power and Blue Dalmation to the Rescue?",
+            "link": "https://techreflect.net/2022/06/flower-power-and-blue-dalmatian-to-the-rescue/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370403",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Please Use ZFS with ECC Memory (2014)",
+            "link": "https://louwrentius.com/please-use-zfs-with-ecc-memory.html",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370395",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "There's a house in Michigan with the What3Words address of slave.slave.slave",
+            "link": "https://twitter.com/edent/status/1554760941283250182",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370394",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Bobo Choses Kids Clothes",
+            "link": "https://www.angelibebe.com/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370375",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Event-Based Order Processing Java Demo",
+            "link": "https://github.com/mckeeh3/order-processing-java-demo",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370373",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Interactive Sierpinski Triangles (2017)",
+            "link": "http://lambdafunk.com/2017-03-30-Interactive-Sierpinski-Triangle/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370339",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Show HN: The Philhartronia Orchestra",
+            "link": "https://www.youtube.com/channel/UCIKUY-PlPYo7FNXQefi3AJA",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370336",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "New Flow Language Rule: Constrained Writes",
+            "link": "https://medium.com/flow-type/new-flow-language-rule-constrained-writes-4c70e375d190",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370298",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "The Cost of Mining Bitcoin in 198 Different Countries",
+            "link": "https://www.visualcapitalist.com/cp/the-cost-of-mining-bitcoin-in-198-different-countries/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370283",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Data Driven Development for Stream Processing",
+            "link": "https://medium.com/codex/data-driven-development-for-stream-processing-e4aeb6eaf4a3",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370282",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "The Psychology of How Novices Learn Computer Programming",
+            "link": "https://dl.acm.org/doi/abs/10.1145/356835.356841",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370268",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "There’s no such thing as the ‘Dark Ages’, but OK (2017)",
+            "link": "https://going-medieval.com/2017/05/26/theres-no-such-thing-as-the-dark-ages-but-ok/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370249",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Git In Two Minutes (updated after 8 years)",
+            "link": "https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370234",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Gannett reports disastrous financial results; layoffs are coming",
+            "link": "https://www.poynter.org/reporting-editing/2022/gannett-reports-disastrous-financial-results-layoffs-are-coming/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370229",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Major fire spreads at Cuban fuel storage facility",
+            "link": "https://www.reuters.com/world/americas/major-fire-spreads-cuban-fuel-storage-facility-hit-by-lightning-2022-08-06/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370219",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Show HN: JWST Image Slideshow",
+            "link": "https://jwst.seanchenpiano.com/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370211",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Winamp Is Back from the Dead",
+            "link": "https://www.pcgamer.com/winamp-is-back-from-the-dead/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370208",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Non-boring Metaverse use cases",
+            "link": "https://www.linkedin.com/pulse/5-non-boring-metaverse-use-cases-maarten-ectors",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370187",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "The Pain You Know",
+            "link": "https://sensiblemed.substack.com/p/the-pain-you-know",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370183",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "XUiDesigner: Wysiwyg LV2 X11UI GUI/plugin creator tool",
+            "link": "https://github.com/brummer10/XUiDesigner",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370180",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Ask HN: Google Search Console Tools says my website produces “soft 404”",
+            "link": "https://news.ycombinator.com/item?id=32370172",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370172",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Ask HN: Why aren't education systems based on Wikipedia?",
+            "link": "https://news.ycombinator.com/item?id=32370170",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370170",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Ask HN: What is your favorite kind of knot?",
+            "link": "https://news.ycombinator.com/item?id=32370161",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370161",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Building a Lego-powered Submarine with automatic depth control",
+            "link": "https://www.youtube.com/watch?v=KLEH8RJsYgI",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370158",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Google’s ‘quantum supremacy’ usurped by researchers using ordinary supercomputer",
+            "link": "https://techcrunch.com/2022/08/05/googles-quantum-supremacy-usurped-by-researchers-using-ordinary-supercomputer/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370151",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Common Lisp OpenGL programming tutorial #10 – Renderers Part 2",
+            "link": "https://www.youtube.com/watch?v=9IOtYoDVAOA",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370137",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Hosting a Minecraft server without extra hardware with Tailscale and iptables",
+            "link": "https://siraben.dev/2022/08/01/tailscale-iptables.html",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370129",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Sols 3553-3554: 10 (Earth) Years Later",
+            "link": "https://mars.nasa.gov/msl/mission-updates/9238/sols-3553-3554-10-earth-years-later/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370116",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Stepping Stones",
+            "link": "http://azspcs.com/Contest/SteppingStones",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370096",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Researching Open Source Apps for XSS to RCE Flaws",
+            "link": "https://swarm.ptsecurity.com/researching-open-source-apps-for-xss-to-rce-flaws/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370094",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Ask HN: If you had or have kids, what topics would you teach them?",
+            "link": "https://news.ycombinator.com/item?id=32370085",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370085",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "‘Cacator cave malum’: what collective latrines teach us about ancient Rome",
+            "link": "https://english.elpais.com/culture/2022-08-05/cacator-cave-malum-what-collective-latrines-teach-us-about-ancient-rome.html",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370076",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "OBS Studio 28 Beta 1 available for testing",
+            "link": "https://github.com/obsproject/obs-studio/releases/tag/28.0.0-beta1",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370015",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "How do I exit Vim?",
+            "link": "https://stackoverflow.com/questions/11828270/how-do-i-exit-vim",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370010",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "How to Build Cloud-Prem Software and Climb the Engineering Ladder",
+            "link": "https://future.com/planetscale-cloud-prem-engineering-management/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32370006",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Loss of Smell from Covid-19, Cognitive Problems Linked",
+            "link": "https://aaic.alz.org/releases_2022/covid-19-dementia-risk.asp",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369992",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "The AI Scaling Hypothesis",
+            "link": "https://lastweekin.ai/p/the-ai-scaling-hypothesis",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369967",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Google Meet lacks “Change Background” feature",
+            "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=1703668",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369927",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Scientist shares image of the sun from James Webb, is chorizo",
+            "link": "https://www.abc.net.au/news/2022-08-05/french-scientist-apologises-for-chorizo-star-joke/101305334",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369923",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Ask HN: What systems do you use to manage life/projects/tasks/self development?",
+            "link": "https://news.ycombinator.com/item?id=32369913",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369913",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Ancient soldiers used sound to frighten and confuse their enemies",
+            "link": "https://phys.org/news/2022-08-ancient-soldiers-enemies.html",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369884",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "President Biden has tested negative for Covid, per the White House physician",
+            "link": "https://twitter.com/GeoffRBennett/status/1555956447133011969",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369861",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Nike Sr SWE: Open to Remote Work, Except: SD, VT, and WV)",
+            "link": "https://jobs.nike.com/job/00594919",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369807",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Can we build a quantum clock that is entirely quantum?",
+            "link": "https://www.newscientist.com/article/2330957-can-we-build-a-quantum-clock-that-is-entirely-quantum/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369804",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "How Twitter Reduced Search Indexing Latency to One Second",
+            "link": "https://blog.reachsumit.com/posts/2020/07/twitter-search-redesign/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369798",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Physics – Optical Device Is More Than 100% Efficient",
+            "link": "https://physics.aps.org/articles/v5/s30",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369791",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Marc Andreessen and Ultra-Wealthy Neighbors Thwart Housing in California Town",
+            "link": "https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369786",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "Fed's Bowman: more 75 basis-point hikes should be on the table",
+            "link": "https://www.reuters.com/markets/us/feds-bowman-more-75-basis-point-hikes-should-be-table-2022-08-06/",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369779",
+            "when": "2022-08-06T18:29:24.228Z"
+        },
+        {
+            "title": "SSI-on-Blockchain Is Objectively a Bad Thing",
+            "link": "https://weh.wtf/ssi.html",
+            "description": "",
+            "guid": "https://news.ycombinator.com/item?id=32369768",
+            "when": "2022-08-06T18:29:24.228Z"
+        }
+    ],
+    "lists": [],
+    "calendar": {}
+}

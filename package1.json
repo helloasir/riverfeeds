@@ -1,0 +1,24 @@
+{
+	"name": "river5",
+	"description": "A river-of-news RSS aggregator in JavaScript running in Node.",
+	"author": "Dave Winer <dave@smallpicture.com>",
+	"version": "0.5.15",
+	"homepage": "/",
+	"scripts": {
+		"start": "node river5.js"
+	},
+	"dependencies": {
+		"request": "*",
+		"mime": "*",
+		"md5": "*",
+		"nodejs-websocket": "*",
+		"opmlparser": "*",
+		"feedparser": "*",
+		"daveutils": "*",
+		"davereader": "*"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": "0.10.*"
+	}
+}

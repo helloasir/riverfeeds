@@ -1,0 +1,12 @@
+{
+	"maxRiverItems": 300,
+	"homePage": { 
+		"panels": [
+			{
+				"title": "Main",
+				"river": "myOpmlFeeds.js"
+				}
+
+			]
+		}
+	}

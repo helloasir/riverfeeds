@@ -1,0 +1,148 @@
+{
+    "prefs": {
+        "enabled": true,
+        "url": "http://status.aws.amazon.com/rss/ec2-us-east-1.rss",
+        "ctSecsBetwRenews": 86400,
+        "flNonListSubscribe": false
+    },
+    "data": {
+        "feedhash": ""
+    },
+    "stats": {
+        "ctReads": 3,
+        "ctReadErrors": 0,
+        "ctConsecutiveReadErrors": 0,
+        "ctItems": 15,
+        "ctEnclosures": 0,
+        "ctFeedTextChanges": 0,
+        "ct304s": 0,
+        "ctItemsTooOld": 0,
+        "ctReadsSkipped": 0,
+        "ctInfoReads": 2,
+        "ctInfoWrites": 3,
+        "whenSubscribed": "2022-08-06T15:45:34.145Z",
+        "whenLastRead": "2022-08-06T18:29:23.969Z",
+        "whenLastNewItem": "2022-08-06T15:45:34.143Z",
+        "mostRecentPubDate": "2022-04-19T18:30:57.000Z",
+        "whenLastInfoWrite": "2022-08-06T18:29:26.125Z",
+        "whenLastReadError": "1970-01-01T00:00:00.000Z",
+        "whenLastInfoRead": "2022-08-06T18:29:23.987Z",
+        "lastReadError": "",
+        "itemSerialnum": 0,
+        "ctSecsLastRead": 2.156
+    },
+    "feedInfo": {
+        "title": "Amazon Elastic Compute Cloud (N. Virginia) Service Status",
+        "link": "http://status.aws.amazon.com/",
+        "description": "Amazon Elastic Compute Cloud (N. Virginia) Service Status"
+    },
+    "history": [
+        {
+            "title": "Service is operating normally: [RESOLVED] Increased Launch Failures",
+            "link": "http://status.aws.amazon.com/",
+            "description": "Between 6:35 AM and 11:00 AM PDT we experienced increased error rates for new instance launches in the US-EAST-1 Region. Existing instances were unaffected by this issue. By 9:05 AM, we had full recovery in use1-az5. By 10:20 AM, we had full recovery in use1-az6, and at 11:00 AM ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1650393057",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: Increased Launch Failures",
+            "link": "http://status.aws.amazon.com/",
+            "description": "We have identified the root cause for increased error rates for new launches in the US-EAST-1 Region. The event affects instances which use EBS Encryption with unencrypted AMIs. Existing instances are not affected. The Availability Zone use1-az5 recovered at 9:05 AM PDT. We ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1650390364",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: Increased Launch Failures",
+            "link": "http://status.aws.amazon.com/",
+            "description": "We have identified the root cause for increased error rates for new launches in the US-EAST-1 Region. The event affects instances which use EBS Encryption with unencrypted AMIs. Existing instances are not affected. The Availability Zone use1-az5 recovered at 9:05 AM PDT.  We ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1650388695",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: Increased Launch Failures",
+            "link": "http://status.aws.amazon.com/",
+            "description": "We are investigating increased error rates for new launches that use EBS Encryption by Default in the US-EAST-1 Region.  Existing instances are not affected, and no other launch requests are affected. We have identified the root cause.  We are seeing recovery in use1-az5.  We ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1650385118",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: Increased Launch Failures",
+            "link": "http://status.aws.amazon.com/",
+            "description": "We are investigating increased error rates for new launches that uses EBS Encryption by Default in the US-EAST-1 Region for three Availability Zones: use1-az2, use1-az6 and use1-az5.  Existing instances are not affected, and no other launch requests are affected.  We have ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1650382771",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Service is operating normally: [RESOLVED] Delayed ENI attachment times",
+            "link": "http://status.aws.amazon.com/",
+            "description": "Starting at 5:03 PM PDT, we experienced increased ENI attachment times for newly launched EC2 instances and newly attached ENIs within a single Availability Zone  (USE1-AZ4) in the US-EAST-1 Region. The issue was caused by increased resource contention in the subsystem ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1648802711",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: [RESOLVED] Delayed ENI attachment times",
+            "link": "http://status.aws.amazon.com/",
+            "description": "ENI network state continues to propagate through the affected Availability Zone (USE1-AZ4) further reducing ENI attachment times. Several affected services - including ELB, Glue and RDS - are now seeing full recovery, while other services - including EMR, EKS, and ECS - are ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1648794478",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: [RESOLVED] Delayed ENI attachment times",
+            "link": "http://status.aws.amazon.com/",
+            "description": "While we have continued to make some progress over the last 30 minutes, progress has been slower than expected and ENI attachment times have not yet returned to normal levels within the affected Availability Zone (USE1-AZ4) in the US-EAST-1 Region. ENI network state continues to ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1648791549",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: [RESOLVED] Delayed ENI attachment times",
+            "link": "http://status.aws.amazon.com/",
+            "description": "Over the last 15 minutes, we have seen a further improvement in ENI attachment times within the affected Availability Zone (USE1-AZ4) in the US-EAST-1 Region. At these levels, many workflows will operate normally but some may still timeout waiting for full network connectivity ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1648789489",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: [RESOLVED] Delayed ENI attachment times",
+            "link": "http://status.aws.amazon.com/",
+            "description": "ENI attachment times continue to take a low number of single digit minutes to establish full network connectivity within the affected Availability Zone (USE1-AZ4) in the US-EAST-1 Region. We do not expect much further improvement until we fully resolve the resource contention ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1648787483",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: [RESOLVED] Delayed ENI attachment times",
+            "link": "http://status.aws.amazon.com/",
+            "description": "ENI attachment times continue to take a low number of single digit minutes to establish full network connectivity within the affected Availability Zone (USE1-AZ4) in the US-EAST-1 Region. We do not expect much further improvement until we fully resolve the resource contention ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1648785480",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: [RESOLVED] Delayed ENI attachment times",
+            "link": "http://status.aws.amazon.com/",
+            "description": "We continue to see an improvement in ENI attachment times, and while they are getting much closer to normal levels, we're still seeing some ENI attachments take a low number of single digit minutes to establish full network connectivity within the affected Availability Zone ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1648783384",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: [RESOLVED] Delayed ENI attachment times",
+            "link": "http://status.aws.amazon.com/",
+            "description": "While ENI attachment times have improved, they are still taking longer than normal in the affected Availability Zone (USE1-AZ4) in the US-EAST-1 Region. The root cause is resource contention within the subsystem responsible for the propagation of network ENI mappings within the ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1648781257",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Informational message: [RESOLVED] Delayed ENI attachment times",
+            "link": "http://status.aws.amazon.com/",
+            "description": "We are investigating delayed ENI attachment times for EC2 instances within a single Availability Zone (USE1-AZ4) in the US-EAST-1 Region. Newly launched EC2 instances or new ENI attachments, may experience delay in establishing network connectivity within the affected ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1648779488",
+            "when": "2022-08-06T15:45:34.143Z"
+        },
+        {
+            "title": "Service is operating normally: [RESOLVED] API Error Rates",
+            "link": "http://status.aws.amazon.com/",
+            "description": "Starting at 4:11 AM PST some EC2 instances and EBS volumes experienced a loss of power in a single data center within a single Availability Zone (USE1-AZ4) in the US-EAST-1 Region. Instances in other data centers within the affected Availability Zone, and other Availability ...",
+            "guid": "http://status.aws.amazon.com/#ec2-us-east-1_1640218920",
+            "when": "2022-08-06T15:45:34.143Z"
+        }
+    ],
+    "lists": [],
+    "calendar": {}
+}

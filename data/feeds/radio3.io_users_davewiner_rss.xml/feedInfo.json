@@ -1,0 +1,225 @@
+{
+    "prefs": {
+        "enabled": true,
+        "url": "http://radio3.io/users/davewiner/rss.xml",
+        "ctSecsBetwRenews": 86400,
+        "flNonListSubscribe": false
+    },
+    "data": {
+        "feedhash": ""
+    },
+    "stats": {
+        "ctReads": 3,
+        "ctReadErrors": 0,
+        "ctConsecutiveReadErrors": 0,
+        "ctItems": 25,
+        "ctEnclosures": 0,
+        "ctFeedTextChanges": 0,
+        "ct304s": 0,
+        "ctItemsTooOld": 0,
+        "ctReadsSkipped": 0,
+        "ctInfoReads": 2,
+        "ctInfoWrites": 3,
+        "whenSubscribed": "2022-08-06T15:45:33.894Z",
+        "whenLastRead": "2022-08-06T18:29:23.707Z",
+        "whenLastNewItem": "2022-08-06T15:45:33.890Z",
+        "mostRecentPubDate": "2022-08-06T14:45:34.000Z",
+        "whenLastInfoWrite": "2022-08-06T18:29:24.717Z",
+        "whenLastReadError": "1970-01-01T00:00:00.000Z",
+        "whenLastInfoRead": "2022-08-06T18:29:23.767Z",
+        "lastReadError": "",
+        "itemSerialnum": 0,
+        "ctSecsLastRead": 1.009
+    },
+    "feedInfo": {
+        "title": "Dave's Radio3 linkblog",
+        "link": "https://t.co/alwLFPBgDF",
+        "description": "Started two Silicon Valley companies. Wrote for Wired. Fellow at Harvard, NYU. Founder of podcasting, blogging, RSS.",
+        "cloud": {
+            "domain": "rpc.rsscloud.io",
+            "port": "5337",
+            "path": "/pleaseNotify",
+            "registerProcedure": "",
+            "protocol": "http-post"
+        }
+    },
+    "history": [
+        {
+            "title": null,
+            "link": "https://devclass.com/2022/08/04/retire_javascript_says-json-creator-douglas-crockford/",
+            "description": "I agree with Crockford that JavaScript's evolution has only made it worse, but I can't and won't give up on it. I've built a very strong codebase, and I don't use the bloated mess they've added. Further, it can easily be simplified.",
+            "guid": "https://devclass.com/2022/08/04/retire_javascript_says-json-creator-douglas-crockford/",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://omny.fm/shows/countdown-with-keith-olbermann/episode-5-countdown-with-keith-olbermann-8-5-22",
+            "description": "OMG there's a Countdown on Saturday too. I was wondering how I would get by with two days of no Countdown.",
+            "guid": "https://omny.fm/shows/countdown-with-keith-olbermann/episode-5-countdown-with-keith-olbermann-8-5-22",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.politico.com/news/2022/08/05/indiana-legislature-first-to-approve-abortion-bans-post-roe-00050199",
+            "description": "Indiana Legislature first to approve abortion bans post Roe.",
+            "guid": "https://www.politico.com/news/2022/08/05/indiana-legislature-first-to-approve-abortion-bans-post-roe-00050199",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://news.ycombinator.com/item?id=32366248",
+            "description": "Ask HN: How to say NO to a GitHub issue feature request?",
+            "guid": "https://news.ycombinator.com/item?id=32366248",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.axios.com/2022/08/05/virtual-production-pixomondo-effects",
+            "description": "How \"virtual production\" is making next-gen movie magic.",
+            "guid": "https://www.axios.com/2022/08/05/virtual-production-pixomondo-effects",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.cbsnews.com/news/bill-barr-jan-6-grand-jury-donald-trump/",
+            "description": "Former Attorney General Bill Barr says Jan. 6 grand jury activity suggests prosecutors \"taking a hard look at the group at the top, including the president.\"",
+            "guid": "https://www.cbsnews.com/news/bill-barr-jan-6-grand-jury-donald-trump/",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.fox2detroit.com/news/jobs-report-today-2022-labor-department-july-hiring-recession-fears?fbclid=IwAR1g1HNTA3Sa4r2I41uY7K7YDCri--uC6TD8hKlQP2-yKPWuFjbCifDO0Ss",
+            "description": "US added surprising 528K jobs in July despite inflation, recession fears.",
+            "guid": "https://www.fox2detroit.com/news/jobs-report-today-2022-labor-department-july-hiring-recession-fears?fbclid=IwAR1g1HNTA3Sa4r2I41uY7K7YDCri--uC6TD8hKlQP2-yKPWuFjbCifDO0Ss",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.theverge.com/2022/8/5/23293309/tesla-cybertruck-price-expensive-elon-musk-shareholder",
+            "description": "Tesla’s Cybertruck is going to be more expensive than originally planned.",
+            "guid": "https://www.theverge.com/2022/8/5/23293309/tesla-cybertruck-price-expensive-elon-musk-shareholder",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.vice.com/en/article/y3pp8y/amazon-buys-roomba-company-will-now-map-inside-of-your-house",
+            "description": "Amazon Buys Roomba Company, Will Now Map Inside of Your House.",
+            "guid": "https://www.vice.com/en/article/y3pp8y/amazon-buys-roomba-company-will-now-map-inside-of-your-house",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.politico.com/news/2022/08/04/head-of-top-pharma-group-says-dems-who-vote-for-bill-wont-get-a-free-pass-00049898",
+            "description": "Pharma group leader says Dems who vote for reconciliation bill 'won't get a free pass'",
+            "guid": "https://www.politico.com/news/2022/08/04/head-of-top-pharma-group-says-dems-who-vote-for-bill-wont-get-a-free-pass-00049898",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://archive.ph/BVtXU",
+            "description": "This startup plans to create realistic human embryos.",
+            "guid": "https://archive.ph/BVtXU",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.axios.com/2022/08/04/liz-cheney-wyoming-republicans-trump-hageman",
+            "description": "GOP operatives quietly work to save Liz Cheney in Wyoming primary.",
+            "guid": "https://www.axios.com/2022/08/04/liz-cheney-wyoming-republicans-trump-hageman",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": "Tonight we’re gonna log on like it’s 1979 | Ars Technica",
+            "link": "https://arstechnica.com/gadgets/2022/08/tonight-were-gonna-log-on-like-its-1979/",
+            "description": "A series of transcripts lets Ars Technica explore the world of Telenet, Dialcom, and The Source in 1979.",
+            "guid": "https://arstechnica.com/gadgets/2022/08/tonight-were-gonna-log-on-like-its-1979/",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://trends.google.com/trends/explore?q=alitoist&geo=US",
+            "description": "A new term: \"alitoist.\" Make him politically radioactive. He's a politician now. A neophyte. His name should be as infamous as McCarthy as in McCarthyism.",
+            "guid": "https://trends.google.com/trends/explore?q=alitoist&geo=US",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html",
+            "description": "2014: Civilization is made of interop.",
+            "guid": "http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://github.com/scripting/docServer/tree/main/docs",
+            "description": "Complete list of Drummer verbs in GitHub format.",
+            "guid": "https://github.com/scripting/docServer/tree/main/docs",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.politico.com/news/magazine/2022/08/04/ginsburg-last-laugh-alito-00049773",
+            "description": "How Ruth Bader Ginsburg Will Have The Last Laugh on Samuel Alito.",
+            "guid": "https://www.politico.com/news/magazine/2022/08/04/ginsburg-last-laugh-alito-00049773",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://m.youtube.com/watch?v=Nz4rJ1DXkT4",
+            "description": "This should be the most famous scene from The Sopranos, minor spoiler.",
+            "guid": "https://m.youtube.com/watch?v=Nz4rJ1DXkT4",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.curbed.com/2022/08/kingston-upstate-rent-control.html?fbclid=IwAR1bg4ycBK-ra7BM5K_rJ3C7OykPywBTcxg5mPJ7VDmd0IE0RbmMpwBoyIk",
+            "description": "Kingston Becomes First Upstate City to Adopt Rent Control.",
+            "guid": "https://www.curbed.com/2022/08/kingston-upstate-rent-control.html?fbclid=IwAR1bg4ycBK-ra7BM5K_rJ3C7OykPywBTcxg5mPJ7VDmd0IE0RbmMpwBoyIk",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.npr.org/2022/07/31/1114375163/long-covid-longhaulers-disability-labor-ada?fbclid=IwAR1nWoX_EUxCC_U1myFSBGapEknhGzAa1AQSUbY-aYiKBukw_lJfSB_nAYk",
+            "description": "Long COVID is sidelining millions of workers from their jobs.",
+            "guid": "https://www.npr.org/2022/07/31/1114375163/long-covid-longhaulers-disability-labor-ada?fbclid=IwAR1nWoX_EUxCC_U1myFSBGapEknhGzAa1AQSUbY-aYiKBukw_lJfSB_nAYk",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.msnbc.com/opinion/msnbc-opinion/alito-mocks-outrage-over-abortion-decision-religious-freedom-speech-n1297608",
+            "description": "Alito mocks outrage over abortion decision in religious freedom speech.",
+            "guid": "https://www.msnbc.com/opinion/msnbc-opinion/alito-mocks-outrage-over-abortion-decision-religious-freedom-speech-n1297608",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.theguardian.com/sport/2022/aug/04/vin-scully-tribute-los-angeles-dodgers",
+            "description": "Iconic broadcaster Vin Scully was baseball’s merry poet laureate and so much more.",
+            "guid": "https://www.theguardian.com/sport/2022/aug/04/vin-scully-tribute-los-angeles-dodgers",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://theconversation.com/us/?fbclid=IwAR1ZwCiglTsH0xOJo5zfGdTmRHQ0RPZxVX1e5vVkSlwYY8WVqvLWCnZsX1E",
+            "description": "The Conversation: In-depth analysis, research, news and ideas from leading academics and researchers.",
+            "guid": "https://theconversation.com/us/?fbclid=IwAR1ZwCiglTsH0xOJo5zfGdTmRHQ0RPZxVX1e5vVkSlwYY8WVqvLWCnZsX1E",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://www.esquire.com/entertainment/books/g40527752/80-books-every-man-should-read-2022/?r=w33x&utm_source=substack&utm_medium=email",
+            "description": "80 Books Every Man Should Read.",
+            "guid": "https://www.esquire.com/entertainment/books/g40527752/80-books-every-man-should-read-2022/?r=w33x&utm_source=substack&utm_medium=email",
+            "when": "2022-08-06T15:45:33.890Z"
+        },
+        {
+            "title": null,
+            "link": "https://donraab.medium.com/the-joy-of-programming-64cd5949bc78",
+            "description": "The Joy of Programming.",
+            "guid": "https://donraab.medium.com/the-joy-of-programming-64cd5949bc78",
+            "when": "2022-08-06T15:45:33.890Z"
+        }
+    ],
+    "lists": [],
+    "calendar": {}
+}
